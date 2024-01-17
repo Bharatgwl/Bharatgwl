@@ -1,0 +1,62 @@
+#include <stdio.h>
+void sort(float a[3])
+{
+    int  i, j, t = 0;
+    // iterates the array elements
+    for (i = 0; i < 3; i++)
+    {   // iterates the array elements from index 1
+        for (j = i + 1; j < 3; j++)
+        {   // comparing the array elements, to set array
+
+            // elements in descending order
+
+            if (a[i] < a[j])
+            {
+                t= a[i];
+                a[i] = a[j];
+                a[j] = t;
+            }
+        }
+    }
+
+    // printing the output
+    for (i = 0; i < 3; i++) {
+        printf("%f ", a[i]);
+    }
+
+}
+
+
+struct Student {
+    char name[50];
+    int rollNumber;
+
+};
+
+int main() {
+    struct Student std[3];
+    int highestMarks = 0;
+    int percentage [3];
+    int i;
+
+    // Input data for each student
+    for (i = 0; i < 3; i++)
+    {
+        printf("Enter details for student %d:\n", i + 1);
+        printf("Name: ");
+        scanf("%s", std[i].name);
+        printf("Roll Number: ");
+        scanf("%d", &std[i].rollNumber);
+       printf("Percentage: ");
+      scanf("%f", &percentage[i]);
+    }
+    
+    sort(percentage);
+    // Checking tha which student has higher marks
+
+
+
+    // Print details of the student with the highest marks
+
+    return 0;
+}
