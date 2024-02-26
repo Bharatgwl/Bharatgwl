@@ -2,7 +2,8 @@
 - 👀 I’m interested in data science and AI ML
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate myself to freelancers and some experienced person
-- 📫 How to reach me ... you can mail me on trankieff1@gmail.com
+- 📫 How to reach me ... you can mail me on
+on Bharatgusaiwal731@gmail.com 
 - Pronouns: ... bharat
 - ⚡ Fun fact: ... some times i can work with Electronics 
 
