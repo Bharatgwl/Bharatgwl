@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Built and optimized RESTful APIs to facilitate seamless communication between front-end applications and databases.**
 
-- 🌱 I’m currently learning **MCP agentic AI  DL RAG**
+- 🌱 I’m currently learning **MCP RAG LangGraph and Agentic AI frameworks**
 
 - 👯 I’m looking to collaborate on **ML and Data science projects**
 
