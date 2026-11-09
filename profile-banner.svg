@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="268" viewBox="0 0 960 268" role="img" aria-labelledby="title desc">
+  <title id="title">Bharat Gusaiwal</title>
+  <desc id="desc">AI engineering, LLM systems, and full-stack development. A mosaic of tokens converges into a small memory bank.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0d1821"/>
+      <stop offset="1" stop-color="#131322"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#63eed4"/>
+      <stop offset="1" stop-color="#afa0ff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#8093ac" stroke-opacity=".16"/>
+    </pattern>
+    <clipPath id="edge">
+      <rect width="960" height="268" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#edge)">
+    <rect width="960" height="268" fill="url(#background)"/>
+    <rect x="584" width="376" height="268" fill="url(#grid)"/>
+    <path d="M584 32V236" stroke="#334050" stroke-dasharray="4 7"/>
+    <path d="M0 265H960" stroke="url(#accent)" stroke-width="6"/>
+  </g>
+  <rect x=".5" y=".5" width="959" height="267" rx="23.5" fill="none" stroke="#344456"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="42" y="36" width="160" height="28" rx="14" fill="#112b30" stroke="#28564f"/>
+    <circle cx="57" cy="50" r="3.5" fill="#63eed4"/>
+    <text x="69" y="54.5" fill="#a8f8e8" font-size="12" font-weight="600" letter-spacing="1.4">AI ENGINEERING</text>
+    <text x="40" y="133" fill="#f3f7fd" font-size="59" font-weight="700" letter-spacing="-1.8">Bharat Gusaiwal</text>
+    <text x="44" y="171" fill="#c1ccdc" font-size="21">LLM systems &amp; full-stack AI products</text>
+    <path d="M44 196H120" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="44" y="227" fill="#a5b5cb" font-family="Consolas, monospace" font-size="14" letter-spacing=".65">@Bharatgwl</text>
+  </g>
+
+  <g fill="none" stroke="#7cebd8" stroke-opacity=".42" stroke-width="1.5">
+    <path d="M756 102H777L808 124H838"/>
+    <path d="M756 134H838"/>
+    <path d="M756 166H777L808 144H838"/>
+  </g>
+  <g stroke="#55ccb9" stroke-opacity=".68">
+    <rect x="638" y="91" width="20" height="20" rx="4" fill="#18363a"/>
+    <rect x="669" y="91" width="20" height="20" rx="4" fill="#275f60"/>
+    <rect x="700" y="91" width="20" height="20" rx="4" fill="#367d78"/>
+    <rect x="731" y="91" width="20" height="20" rx="4" fill="#64d7c4"/>
+    <rect x="638" y="124" width="20" height="20" rx="4" fill="#275f60"/>
+    <rect x="669" y="124" width="20" height="20" rx="4" fill="#18363a"/>
+    <rect x="700" y="124" width="20" height="20" rx="4" fill="#64d7c4"/>
+    <rect x="731" y="124" width="20" height="20" rx="4" fill="#367d78"/>
+    <rect x="638" y="157" width="20" height="20" rx="4" fill="#18363a"/>
+    <rect x="669" y="157" width="20" height="20" rx="4" fill="#367d78"/>
+    <rect x="700" y="157" width="20" height="20" rx="4" fill="#275f60"/>
+    <rect x="731" y="157" width="20" height="20" rx="4" fill="#64d7c4"/>
+  </g>
+  <rect x="836" y="105" width="64" height="57" rx="12" fill="#22213a" stroke="#8e7ee5"/>
+  <rect x="847" y="121" width="17" height="24" rx="4" fill="#b4a7fb"/>
+  <rect x="872" y="121" width="17" height="24" rx="4" fill="#7567c1"/>
+  <g fill="#9facbf" font-family="Consolas, monospace" font-size="11" letter-spacing="1.2">
+    <text x="638" y="67">MOSAICFORMER</text>
+    <text x="638" y="201">LOCAL TOKENS</text>
+    <text x="837" y="201">MEMORY</text>
+  </g>
+</svg>
