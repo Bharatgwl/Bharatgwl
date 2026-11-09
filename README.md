@@ -29,69 +29,56 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatgwl&show_icons=true&locale=en&layout=compact" alt="bharatgwl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatgwl&" alt="bharatgwl" /></p> -->
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
+###
 
-<p align="center">
-  <img src="./profile-banner.svg" alt="Bharat Gusaiwal — AI engineering, LLM systems, and full-stack development" width="100%">
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-# Bharat Gusaiwal
+###
 
-I build language models in PyTorch and turn AI workflows into web apps. My work spans Transformer memory, instruction fine-tuning, and products like IntelliHire, where AI-generated questions, voice interviews, and candidate feedback run in one workspace.
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-[**Portfolio ↗**](https://portfolio-alpha-khaki-90.vercel.app/) · [**IntelliHire ↗**](https://ai-interview-platform-two-flame.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bharat-gusaiwal/) · [Email](mailto:Bharatgusaiwal731@gmail.com)
+###
 
-## Featured work
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Bharatgwl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Bharatgwl/Bharatgwl/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-### 01 · MosaicFormer
+###
 
-A decoder-only Transformer for exploring long-context memory in small language models. It uses local causal attention for recent tokens, compresses older chunks into learned memory vectors, and combines the two with gated fusion. The implementation includes a full-attention GPT baseline for comparison.
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bharatgwl/Bharatgwl/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bharatgwl/Bharatgwl/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bharatgwl/Bharatgwl/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-`PyTorch` · `Local attention` · `Learned memory` · `Ablation experiments`
-
-[Explore MosaicFormer in my portfolio ↗](https://portfolio-alpha-khaki-90.vercel.app/#projects)
-
-### 02 · IntelliHire
-
-An AI interview workspace that takes a role description through question generation, shareable candidate links, voice interviews, and feedback. It also includes a coding mock-test lab, usage tracking, and subscription billing.
-
-`Next.js` · `Supabase` · `Gemini` · `Stripe` · `Piston`
-
-[Explore IntelliHire ↗](https://ai-interview-platform-two-flame.vercel.app/)
-
-### 03 · Portfolio
-
-A closer look at my LLM experiments, generative AI tools, computer vision projects, and full-stack work. It also includes my résumé and a LeetCode dashboard.
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
-
-[View portfolio ↗](https://portfolio-alpha-khaki-90.vercel.app/)
-
-## LLM engineering & problem solving
-
-- **LLM engineering** · Implemented GPT‑2 in PyTorch, fine-tuned it on Alpaca-style instructions, and evaluated responses with a local model. [GPT‑2 implementation and training pipeline](https://github.com/Bharatgwl/Finetuning-LLM-From-Scratch)
-- **Data structures & algorithms** · I practice in C++, with a focus on trees, graphs, dynamic programming, and time and space complexity. [DSA for interviews](https://github.com/Bharatgwl/DSA_for_interviews) · [LeetCode](https://leetcode.com/u/Bharat_gwl/)
-- **Exploring** · Retrieval-augmented generation, MCP, and agent workflows with LangGraph.
-
-## Tech I work with
-
-| Area | Tools & topics |
-| --- | --- |
-| Languages | Python, C++, TypeScript, JavaScript, SQL |
-| LLMs & generative AI | PyTorch, Transformers, Hugging Face, Diffusers, SDXL, DreamBooth, LoRA, Ollama |
-| AI apps & integrations | LangChain, Gemini, OpenRouter, Twilio, Piston, Stripe |
-| ML, data & vision | TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, YOLO, Streamlit |
-| Frontend | Next.js, React, Tailwind CSS, Framer Motion |
-| Backend & databases | Flask, Django, Node.js, Express, REST APIs, Supabase, PostgreSQL, MongoDB, MySQL |
-| Development & deployment | Git, GitHub, Docker, AWS, Vercel, Postman |
-
-## Live activity
-
-<p align="center">
-  <a href="https://leetcode.com/u/Bharat_gwl/"><img src="https://leetcard.jacoblin.cool/bharat_gwl?theme=dark&amp;ext=contest&amp;animation=false" alt="LeetCode solved problems by difficulty and contest rating" width="390"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Bharatgwl"><img src="https://streak-stats.demolab.com/?user=Bharatgwl&amp;theme=dark&amp;hide_border=true&amp;type=svg" alt="GitHub contributions and streaks" width="390"></a>
-</p>
-
+###
 [LeetCode profile](https://leetcode.com/u/Bharat_gwl/) · [GitHub contributions](https://github.com/Bharatgwl) · [Kaggle](https://www.kaggle.com/bharatgusaiwal) · [GeeksforGeeks](https://auth.geeksforgeeks.org/user/bharatgustxex)
