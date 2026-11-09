@@ -69,7 +69,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Bharatgwl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Bharatgwl/Bharatgwl/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+ <img src="https://trophy.ryglcloud.net/?username=Bharatgwl&amp;theme=dracula&amp;column=6&amp;row=1&amp;margin-w=8" height="150" alt="GitHub trophies" />
 </div>
 
 ###
